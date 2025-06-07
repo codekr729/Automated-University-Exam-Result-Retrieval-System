@@ -1,0 +1,26 @@
+{
+  "name": "results",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jquery": "^3.7.1",
+    "jsdom": "^24.1.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "pdfkit": "^0.15.0",
+    "puppeteer": "^22.10.0",
+    "results": "file:",
+    "streamifier": "^0.1.1"
+  }
+}
